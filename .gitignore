@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+onvif-inventory.json
+onvif-inventory.html
+creds.json
